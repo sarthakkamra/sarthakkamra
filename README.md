@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sarthakkamra
 - 👀 I’m interested in coding , writing and exploring new things.
 - 🌱 I’m currently learning Android Software Development.
-- 💞️ I’m looking to collaborate on Web Development projects.
+- 💞️ I’m looking to collaborate on Web Development Projects.
 - 📫 How to reach me mail me at sarthakkamra02@gmail.com.
 
 <!---
