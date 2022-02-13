@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Android Software Development.
 - 💞️ I’m looking to collaborate on Web Development Projects.
 - 📫 How to reach me mail me at sarthakkamra02@gmail.com.
-- 📝My E-Portfolio https://sarthak-kamra-portfolio.netlify.app/
+- 🧑🏻‍💻 My E-Portfolio https://sarthak-kamra-portfolio.netlify.app/
 
 <!---
 sarthakkamra/sarthakkamra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
